@@ -13,7 +13,7 @@ Hi 👋, I'm Mikail Kaplan
 
 - 💬 Ask me about **C programing.**
 
-- 📫 How to reach me **kaplanmikail317@gmail.com** **www.linkedin.com/in/mikailkaplanmk**
+- 📫 How to reach me **kaplanmikail317@gmail.com** | **www.linkedin.com/in/mikailkaplanmk**
 
 - ⚡ Fun fact **If I exist, there is life again.**
 

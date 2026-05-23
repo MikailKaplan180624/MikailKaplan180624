@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGu_D6jr9MueQ/profile-displaybackgroundimage-shrink_350_1400/B56ZpfeqooHYAo-/0/1762538469117?e=1766620800&v=beta&t=jRyY8elvfrAiFzpVz19JX8g7zBcxm_2zF7vsENM3q8M)
 Hi 👋, I'm Mikail Kaplan
 
 ### Software development traveler eager to learn
